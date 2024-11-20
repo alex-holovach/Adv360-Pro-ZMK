@@ -1,5 +1,4 @@
 macro_open_browser: macro_open_browser {
-macro_open_browser: macro_open_browser {
 compatible = "zmk,behavior-macro";
 label = "macro_open_browser";
 #binding-cells = <0>;
